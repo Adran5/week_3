@@ -1,0 +1,21 @@
+ /*This is a css comment */
+  
+img {width: 50%;
+     align-items: center;
+}
+h1:hover{background-color: yellow;
+}
+a:visited {text-decoration: none;
+}
+header {width: 75%;
+        margin: auto;
+        background-color: beige;
+}
+article {width:50%;
+         margin: auto;
+         background-color: bisque;
+}
+footer {border: 2px solid red;
+        border-radius: 20px;
+}
+      
